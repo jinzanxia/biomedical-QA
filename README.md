@@ -101,7 +101,7 @@ The questions are from Bioasq Task 5b(http://participants-area.bioasq.org/).
   ```
   trec_eval -q -c -M10 -m map path_to_answer_file path_to_result_file
 ## Citation
-If you use our benchmark, please cite the following paper:
+If you use our work, please cite the following paper:
 
 	@inproceedings{Bioinformatics_1568,
 	  title={Health Assistant: Answering Your Questions Anytime from Biomedical Literature},
