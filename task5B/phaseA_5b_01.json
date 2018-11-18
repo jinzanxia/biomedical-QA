@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "Which two drugs are included in the Harvoni pill?", 
+      "type": "list", 
+      "id": "5896deff78275d0c4a000013"
+    }, 
+    {
+      "body": "Data from which major epigenome projects are contained in the DeepBlue epigenomic data server?", 
+      "type": "list", 
+      "id": "588fd8f3621ea6ff7e000001"
+    }, 
+    {
+      "body": "Has Glucose-6-phosphate dehydrogenase (G6PD) deficiency an X-linked inheritance?", 
+      "type": "yesno", 
+      "id": "58a2da4260087bc10a000005"
+    }, 
+    {
+      "body": "What is the importance of Janus Kinase receptors in dermatology?", 
+      "type": "summary", 
+      "id": "58a3261e60087bc10a00000c"
+    }, 
+    {
+      "body": "What disease is the drug aducanumab targeting?", 
+      "type": "factoid", 
+      "id": "58a95c711978bbde22000001"
+    }, 
+    {
+      "body": "Is Migalastat used for treatment of Fabry Disease?", 
+      "type": "yesno", 
+      "id": "5884793ce56acf5176000008"
+    }, 
+    {
+      "body": "Which peak calling algorithm employs mixture model clustering under the hood?", 
+      "type": "factoid", 
+      "id": "587f760792a5b8ad44000005"
+    }, 
+    {
+      "body": "Which diseases are involved in the severe cutaneous reactions (SCAR) spectrum?", 
+      "type": "list", 
+      "id": "58a45d6060087bc10a00001d"
+    }, 
+    {
+      "body": "For what indications is thalidomide currently marketed?", 
+      "type": "list", 
+      "id": "58a0da5278275d0c4a000054"
+    }, 
+    {
+      "body": "Where are Paneth cells located?", 
+      "type": "factoid", 
+      "id": "58a9bbe81978bbde22000007"
+    }, 
+    {
+      "body": "Is there a role of regorafenib for sarcoma treatment?", 
+      "type": "yesno", 
+      "id": "58848a13e56acf517600000d"
+    }, 
+    {
+      "body": "Which genes of the marmoset genome exhibit rapid sequence evolution?", 
+      "type": "list", 
+      "id": "58839d892305cd7e21000006"
+    }, 
+    {
+      "body": "What is the incidence of beta-thalassemia in Greek population?", 
+      "type": "factoid", 
+      "id": "58a2df9c60087bc10a000006"
+    }, 
+    {
+      "body": "What is Contrave prescribed for?", 
+      "type": "factoid", 
+      "id": "58a32edd60087bc10a000012"
+    }, 
+    {
+      "body": "What is the effect of CPEB3 binding to the CPE domain?", 
+      "type": "summary", 
+      "id": "58a8a51b7f77222767000001"
+    }, 
+    {
+      "body": "List selective estrogen receptor degraders.", 
+      "type": "list", 
+      "id": "58919aad621ea6ff7e00000d"
+    }, 
+    {
+      "body": "Which R package is used for the detection of chromosomal abnormalities from microarray data?", 
+      "type": "factoid", 
+      "id": "5880a8ec0a76a87357000001"
+    }, 
+    {
+      "body": "What is the benserazide's mechanism of function when co-administered with L-DOPA in patients with Parkinson's Disease?", 
+      "type": "summary", 
+      "id": "58a5723c60087bc10a00001e"
+    }, 
+    {
+      "body": "What is Creutzfeldt-Jakob Disease (CJD)?", 
+      "type": "summary", 
+      "id": "58a3423e60087bc10a000019"
+    }, 
+    {
+      "body": "What type of mutation is causing the industrial melanism phenotype in peppered moths?", 
+      "type": "factoid", 
+      "id": "58a877cf38c171fb5b000004"
+    }, 
+    {
+      "body": "What is the target of daratumumab?", 
+      "type": "factoid", 
+      "id": "5880aef4c872c95565000001"
+    }, 
+    {
+      "body": "Elaborate on the link between conserved noncoding elements (CNEs) and fractality.", 
+      "type": "summary", 
+      "id": "587f57f692a5b8ad44000002"
+    }, 
+    {
+      "body": "Which are the types of viral meningitis?", 
+      "type": "list", 
+      "id": "589aec4778275d0c4a000037"
+    }, 
+    {
+      "body": "What are the different classes of orally administered drugs used to treat diabetes", 
+      "type": "list", 
+      "id": "58a0c09778275d0c4a000052"
+    }, 
+    {
+      "body": "What is Eteplirsen (Exondys 51)?", 
+      "type": "summary", 
+      "id": "58a9d3cd396a458e50000004"
+    }, 
+    {
+      "body": "What molecule is targeted by Avelumab?", 
+      "type": "factoid", 
+      "id": "5884c72fe56acf517600000f"
+    }, 
+    {
+      "body": "What is known about the Kub5-Hera/RPRD1B interactome?", 
+      "type": "summary", 
+      "id": "5881f0f1713cbdfd3d000004"
+    }, 
+    {
+      "body": "Which are the side effects during tacrine administration in patients with Alzheimer's Disease?", 
+      "type": "list", 
+      "id": "58a2fac960087bc10a000009"
+    }, 
+    {
+      "body": "What do statins do?", 
+      "type": "summary", 
+      "id": "589c8e5e78275d0c4a000041"
+    }, 
+    {
+      "body": "What are the birth defects associated with Zika-virus infection?", 
+      "type": "summary", 
+      "id": "58a989571978bbde22000002"
+    }, 
+    {
+      "body": "Willis-Ekbom disease is also known as?", 
+      "type": "factoid", 
+      "id": "5891f9e549702f2e01000002"
+    }, 
+    {
+      "body": "List all the available databases of super enhancers", 
+      "type": "list", 
+      "id": "587d2700fe8a08052f000001"
+    }, 
+    {
+      "body": "Could BRCA gene test used for breast and ovarian cancer risk?", 
+      "type": "yesno", 
+      "id": "58a6bce660087bc10a000029"
+    }, 
+    {
+      "body": "Do statins cause diabetes?", 
+      "type": "yesno", 
+      "id": "58a341eb60087bc10a000018"
+    }, 
+    {
+      "body": "List kinases that phosphorylates the protein Bora.", 
+      "type": "list", 
+      "id": "58a80bc838c171fb5b000001"
+    }, 
+    {
+      "body": "Which enzyme is inhibited by niraparib?", 
+      "type": "factoid", 
+      "id": "5880be1dc872c95565000007"
+    }, 
+    {
+      "body": "What is regioneR?", 
+      "type": "summary", 
+      "id": "587e3f4e2420191125000003"
+    }, 
+    {
+      "body": "What is the \"wearing-off\" phenomenon in levodopa-treated patients with Parkinson's Disease?", 
+      "type": "summary", 
+      "id": "589c389278275d0c4a00003e"
+    }, 
+    {
+      "body": "What is BioCreative?", 
+      "type": "summary", 
+      "id": "589c8ef878275d0c4a000042"
+    }, 
+    {
+      "body": "What is the effect of nocodazole cell treatment?", 
+      "type": "factoid", 
+      "id": "58a8903b38c171fb5b000006"
+    }, 
+    {
+      "body": "List two most common symptoms of Aagenaes syndrome.", 
+      "type": "list", 
+      "id": "5895f9cf78275d0c4a000002"
+    }, 
+    {
+      "body": "Which software package is available for the analysis of conserved genomic loci?", 
+      "type": "factoid", 
+      "id": "587e07023ec846c24f000001"
+    }, 
+    {
+      "body": "Which is the primary protein component of Lewy bodies?", 
+      "type": "factoid", 
+      "id": "58a2e5f760087bc10a000007"
+    }, 
+    {
+      "body": "Is the toxin produced by Clostridium botulinum always deadly?", 
+      "type": "yesno", 
+      "id": "58a341a660087bc10a000017"
+    }, 
+    {
+      "body": "Are microtubules marked by glutamylation?", 
+      "type": "yesno", 
+      "id": "58aa0a62396a458e50000007"
+    }, 
+    {
+      "body": "Which drug was tested in the TEMSO Trial for multiple sclerosis?", 
+      "type": "factoid", 
+      "id": "589a246078275d0c4a00002a"
+    }, 
+    {
+      "body": "Is exon skipping correlated with exon circularization?", 
+      "type": "yesno", 
+      "id": "587f5d6492a5b8ad44000003"
+    }, 
+    {
+      "body": "Which human syndromes have been detected with Fluorescence in situ hybridization (FISH)?", 
+      "type": "list", 
+      "id": "58932cd87d9090f353000001"
+    }, 
+    {
+      "body": "When did the polio vaccine becomes available?", 
+      "type": "factoid", 
+      "id": "58a1c0f178275d0c4a000056"
+    }, 
+    {
+      "body": "Is synapsin a phosphoprotein?", 
+      "type": "yesno", 
+      "id": "58a8962338c171fb5b000007"
+    }, 
+    {
+      "body": "List symptoms of EAST syndrome.", 
+      "type": "list", 
+      "id": "589a246378275d0c4a00002c"
+    }, 
+    {
+      "body": "What is the role of ZNF335 in microcephaly?", 
+      "type": "summary", 
+      "id": "5889f0ed3b87a8a73800000c"
+    }, 
+    {
+      "body": "What is Neisseria adhesin A?", 
+      "type": "summary", 
+      "id": "589afa6978275d0c4a000039"
+    }, 
+    {
+      "body": "Is Thalidomide currently a marketed drug?", 
+      "type": "yesno", 
+      "id": "58a0d87a78275d0c4a000053"
+    }, 
+    {
+      "body": "Which is the \"bonding hormone\"?", 
+      "type": "factoid", 
+      "id": "58aa0c6f396a458e50000008"
+    }, 
+    {
+      "body": "Describe clinical presentation of Ambras syndrome.", 
+      "type": "summary", 
+      "id": "5895fc7e78275d0c4a000003"
+    }, 
+    {
+      "body": "What is MINDY-1?", 
+      "type": "summary", 
+      "id": "587e42032420191125000004"
+    }, 
+    {
+      "body": "Which enzymes synthesize catecholamines in adrenal glands?", 
+      "type": "list", 
+      "id": "589c215778275d0c4a00003c"
+    }, 
+    {
+      "body": "What is FFI, fatal familial insomnia", 
+      "type": "summary", 
+      "id": "58a3160d60087bc10a00000a"
+    }, 
+    {
+      "body": "How many cysteines have alpha-defensins?", 
+      "type": "factoid", 
+      "id": "58a9c532396a458e50000002"
+    }, 
+    {
+      "body": "Which diseases that can be treated using the focused ultrasound thalamotomy.", 
+      "type": "list", 
+      "id": "58846be0e56acf5176000005"
+    }, 
+    {
+      "body": "Elaborate on the role of CARMEN in cardiac specification.", 
+      "type": "summary", 
+      "id": "58837dd72305cd7e21000003"
+    }, 
+    {
+      "body": "Is Annexin V an apoptotic marker?", 
+      "type": "yesno", 
+      "id": "5894597e7d9090f353000004"
+    }, 
+    {
+      "body": "What are prions?", 
+      "type": "summary", 
+      "id": "58a0f95c78275d0c4a000055"
+    }, 
+    {
+      "body": "What is the result of Mff overexpression in mitochondria?", 
+      "type": "summary", 
+      "id": "58a874c338c171fb5b000003"
+    }, 
+    {
+      "body": "What is the mechanism of action of peginesatide?", 
+      "type": "summary", 
+      "id": "58962dac78275d0c4a000005"
+    }, 
+    {
+      "body": "What is sQTLseekeR?", 
+      "type": "summary", 
+      "id": "5883868b2305cd7e21000005"
+    }, 
+    {
+      "body": "What is the composition of the gamma-secretase complex?", 
+      "type": "summary", 
+      "id": "58a2ccec60087bc10a000003"
+    }, 
+    {
+      "body": "What gene is mutated in Huntington's disease?", 
+      "type": "factoid", 
+      "id": "58a3428d60087bc10a00001b"
+    }, 
+    {
+      "body": "Which gene-defect causes the Vel-blood type?", 
+      "type": "factoid", 
+      "id": "58a872bd38c171fb5b000002"
+    }, 
+    {
+      "body": "Mutation of which gene is implicated in the Christianson syndrome?", 
+      "type": "factoid", 
+      "id": "5895bc397d9090f35300000b"
+    }, 
+    {
+      "body": "What are the SINEUPs?", 
+      "type": "summary", 
+      "id": "587d3873ae41fa4569000002"
+    }, 
+    {
+      "body": "Which are the lipid lowering drugs administered in patients with Coronary Artery Disease (CAD)?", 
+      "type": "list", 
+      "id": "589c42b178275d0c4a00003f"
+    }, 
+    {
+      "body": "What are PD-1 inhibitors?", 
+      "type": "summary", 
+      "id": "58a3196360087bc10a00000b"
+    }, 
+    {
+      "body": "What is trichotillomania?", 
+      "type": "factoid", 
+      "id": "58a8045860087bc10a000035"
+    }, 
+    {
+      "body": "What is the mechanism of action of raxibacumab?", 
+      "type": "summary", 
+      "id": "587f857b8ce3255b64000001"
+    }, 
+    {
+      "body": "What are the exonic splice enhancers?", 
+      "type": "summary", 
+      "id": "5880acbb0a76a87357000003"
+    }, 
+    {
+      "body": "Is SUMOylation a post-translational modification in eukaryotes?", 
+      "type": "yesno", 
+      "id": "58a6b98860087bc10a000028"
+    }, 
+    {
+      "body": "List drugs withdrawn from the market for cardiovascular adverse events.", 
+      "type": "list", 
+      "id": "58a326da60087bc10a00000e"
+    }, 
+    {
+      "body": "What is the Shelterin complex?", 
+      "type": "summary", 
+      "id": "58a9cd03396a458e50000003"
+    }, 
+    {
+      "body": "SPAG5 was implicated in which cancers?", 
+      "type": "list", 
+      "id": "5884fe4ce56acf5176000010"
+    }, 
+    {
+      "body": "What is Path2PPI?", 
+      "type": "summary", 
+      "id": "587e2a0cc32c812009000001"
+    }, 
+    {
+      "body": "What is the function of Oseltamivir when administered during flu?", 
+      "type": "summary", 
+      "id": "589ae59c78275d0c4a000036"
+    }, 
+    {
+      "body": "What is Desomorphine?", 
+      "type": "summary", 
+      "id": "58a5d7ef60087bc10a000026"
+    }, 
+    {
+      "body": "Which mutated genes are associated with the Tourette's syndrome?", 
+      "type": "list", 
+      "id": "58a7fb2860087bc10a000034"
+    }, 
+    {
+      "body": "Is ocrelizumab effective for treatment of multiple sclerosis?", 
+      "type": "yesno", 
+      "id": "588fa4b9ed9bbee70d000006"
+    }, 
+    {
+      "body": "Which pipelines are used for analyzing data from ChIP-nexus experiments?", 
+      "type": "list", 
+      "id": "5883bce3e56acf5176000003"
+    }, 
+    {
+      "body": "Which are the consequences of the hyperphosphorylated tau in Alzheimers' Disease?", 
+      "type": "list", 
+      "id": "58a2efec60087bc10a000008"
+    }, 
+    {
+      "body": "What causes Scurvy?", 
+      "type": "summary", 
+      "id": "58a5d54860087bc10a000025"
+    }, 
+    {
+      "body": "Which cells secretes alpha defensin 5?", 
+      "type": "factoid", 
+      "id": "58a9c152396a458e50000001"
+    }, 
+    {
+      "body": "Describe mechanism of action of Eteplirsen?", 
+      "type": "summary", 
+      "id": "5891869b621ea6ff7e00000c"
+    }, 
+    {
+      "body": "Which tool employs self organizing maps for analyzing synonymous codon usage?", 
+      "type": "factoid", 
+      "id": "5891c90949702f2e01000001"
+    }, 
+    {
+      "body": "Is NADPH oxidase 5 expressed in rodents?", 
+      "type": "yesno", 
+      "id": "58a5b01760087bc10a000023"
+    }, 
+    {
+      "body": "What are reactive metabolites?", 
+      "type": "summary", 
+      "id": "58a3264e60087bc10a00000d"
+    }, 
+    {
+      "body": "Does Vitamin D induce  autophagy?", 
+      "type": "yesno", 
+      "id": "58a957a8cc344ae31e000001"
+    }, 
+    {
+      "body": "Describe what is athelia syndrome?", 
+      "type": "summary", 
+      "id": "5895b9ae7d9090f35300000a"
+    }, 
+    {
+      "body": "Is RASA2 involved in melanoma?", 
+      "type": "yesno", 
+      "id": "5896399978275d0c4a00000b"
+    }, 
+    {
+      "body": "Which is the chromosome area that the human gene coding for the dopamine transporter (DAT1) is located to?", 
+      "type": "factoid", 
+      "id": "58a2ced760087bc10a000004"
+    }, 
+    {
+      "body": "What are some of the effects of Zika Virus in infected individuals?", 
+      "type": "summary", 
+      "id": "58a3275960087bc10a00000f"
+    }, 
+    {
+      "body": "Is the protein lefty an inhibitor of nodal?", 
+      "type": "yesno", 
+      "id": "58a93877ee23e0236b000001"
+    }
+  ]
+}

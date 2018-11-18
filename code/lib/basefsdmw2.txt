@@ -1,0 +1,19 @@
+ "verbose" :true,
+ "casefold" :true,
+ "requested" :100,
+ "traversals": [
+        {
+            "name": "org.lemurproject.galago.contrib.retrieval.traversal.FieldedSequentialDependenceTraversal",
+            "order": "before"
+        }
+ ],
+ "fields" : [ "articletitle", "abstracttext" ],
+"uniw":0.85,
+"odw":0.10,
+"uww":0.05,
+"uni-articletitle": 0.25,
+"od-articletitle": 0.25,
+"uww-articletitle": 0.25,
+"uni-abstracttext": 0.75,
+"od-abstracttext": 0.75,
+"uww-abstracttext": 0.75,
