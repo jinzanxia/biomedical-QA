@@ -91,7 +91,7 @@ The questions are from Bioasq Task 5b(http://participants-area.bioasq.org/).
 	  ```
 	  #query_id  Q0 #document_id rank predicted_relevance_score system_name;
 	    ```
-- Run the script "CreateQrels.java" and generate standard answers file
+- Run the script "CreateQrels.java" to generate standard answers file
 	- Format: 
 	  ```
 	  #query_id 0 #ground_truth_document_id relevance_score;
