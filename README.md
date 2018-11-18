@@ -13,33 +13,33 @@ The attachment files of Bioinformatics 2018 submission 1568.
 - The Bioasq Dataset are from http://participants-area.bioasq.org/
 - The document collections consist of more than 26 million citations in XML format for biomedical literature from MEDLINE, life science journals, and online books, which is produced by National Library of Medicine (NLM).
 - XML tags example:
-	- <PMID>: a unique id for each literature
-	- <DateCompleted>: the date when the article was Completed
-	- <ArticleTitle>: the title of the article 
-	- <Abstract>: the abstract of the article 
-	- <MedlineJournalInfo>: the information about the journal
-	- <ChemicalList>: the list of chemicals included in the article
-	- <MeshHeadingList>: the list of MeshHeading included in the article
-	- <KeywordList>: the list of keywords for the article
+	- \<PMID\>: a unique id for each literature
+	- \<DateCompleted\>: the date when the article was Completed
+	- \<ArticleTitle\>: the title of the article 
+	- \<Abstract\>: the abstract of the article 
+	- \<MedlineJournalInfo\>: the information about the journal
+	- \<ChemicalList\>: the list of chemicals included in the article
+	- \<MeshHeadingList\>: the list of MeshHeading included in the article
+	- \<KeywordList\>: the list of keywords for the article
 
 ## Search Engine
 The open source search engine code are from https://sourceforge.net/p/lemur/galago/ci/default/tree/
 - Build index 
-	galago build [flags] --indexPath=<index> (--inputPath+<input>)+ --tokenizer/fields+{field-name}   
-	--inputPath   Can be either a file or directory, and as many can be specified as you like.  Galago can read html, xml, txt, arc (Heritrix), warc, trectext, trecweb and corpus files.  Files may be compressed (.gz|.bz).
-	--indexPath   The directory path of the index to produce.	
+	- galago build [flags] --indexPath=\<index\> (--inputPath+\<input\>)+ --tokenizer/fields+{field-name}   
+	- --inputPath   Can be either a file or directory, and as many can be specified as you like.  Galago can read html, xml, txt, arc (Heritrix), warc, trectext, trecweb and corpus files.  Files may be compressed (.gz|.bz).
+	- --indexPath   The directory path of the index to produce.	
 - Search 
-	galago batch-search --index=<path_to_index> --requested=N <path_to_query_file>
-	--index=<path_to_index>          Name and path to index.
-	--requested=N                    Number of results to return for each query.  \[default=1000\]
-	<path_to_query_file>             Input JSON parameters file.
+	- galago batch-search --index=\<path_to_index\> --requested=N \<path_to_query_file\>
+	- --index=\<path_to_index\> 	Name and path to index.
+	- --requested=N					Number of results to return for each query.  \[default=1000\]
+	- \<path_to_query_file\>    	Input JSON query file.
 	
 ## Process Queries
-The questions are from Bioasq task 5b(http://participants-area.bioasq.org/).
+The questions are from Bioasq Task 5b(http://participants-area.bioasq.org/).
 - Files 
 	- phaseA_5b_01.json: an example of a questions list file 
 - Pre-processing
-  Divide the questions file into separate question files.
+Divide the questions file into separate question files.
 	- Use ```phaseA_5b_01.json```
 	- change filepath to your input files
 	- Run script:
@@ -61,19 +61,19 @@ The questions are from Bioasq task 5b(http://participants-area.bioasq.org/).
 	- Run script:
 		- Format:   
 	  	```
-	 	java BioasqBaseline.java;  					(Generate a query file that uses the QL search method)
-		java BioasqMySDM.java;  					(Generate a query file that uses the SDM search method)
-		java BioasqMyFSDM.java;  					(Generate a query file that uses the FSDM search method)
-		java BioasqNN.java;  						(Generate a query file that uses the QL+NN search method)
-		java BioasqMySdmFsdm.java;  				(Generate a query file that uses the SDM+FSDM search method)
-		java BioasqMySdmPDFR.java;  				(Generate a query file that uses the SDM+PDFR search method)
-		java BioasqSDMw2v.java;  					(Generate a query file that uses the SDM+W2V search method)
-		java BioasqNNsdmfsdm.java;  				(Generate a query file that uses the SDM+NN+FSDM search method)
-		java BioasqMySdmFsdmExpansion.java;  		(Generate a query file that uses the SDM+FSDM+PRF(title) search method)
-		java BioasqMySdmFsdmMeshExpansion.java;  	(Generate a query file that uses the SDM+FSDM+PRF(mesh) search method)
-		java BioasqNNsdmfsdmExpansion.java;  		(Generate a query file that uses the SDM+NN+FSDM+PRF(title) search method)
-		java BioasqNNsdmfsdmMeshExpansion.java;  	(Generate a query file that uses the SDM+NN+FSDM+PRF(mesh) search method)
-		java BioasqExpansion.java;  				(Generate extended query vocabulary based on search results)
+	 	java BioasqBaseline.java;	(Generate a query file that uses the QL search method)
+		java BioasqMySDM.java;	(Generate a query file that uses the SDM search method)
+		java BioasqMyFSDM.java;	(Generate a query file that uses the FSDM search method)
+		java BioasqNN.java;	(Generate a query file that uses the QL+NN search method)
+		java BioasqMySdmFsdm.java	(Generate a query file that uses the SDM+FSDM search method)
+		java BioasqMySdmPDFR.java;	(Generate a query file that uses the SDM+PDFR search method)
+		java BioasqSDMw2v.java;	(Generate a query file that uses the SDM+W2V search method)
+		java BioasqNNsdmfsdm.java;	(Generate a query file that uses the SDM+NN+FSDM search method)
+		java BioasqMySdmFsdmExpansion.java;	(Generate a query file that uses the SDM+FSDM+PRF(title) search method)
+		java BioasqMySdmFsdmMeshExpansion.java;	(Generate a query file that uses the SDM+FSDM+PRF(mesh) search method)
+		java BioasqNNsdmfsdmExpansion.java;	(Generate a query file that uses the SDM+NN+FSDM+PRF(title) search method)
+		java BioasqNNsdmfsdmMeshExpansion.java;	(Generate a query file that uses the SDM+NN+FSDM+PRF(mesh) search method)
+		java BioasqExpansion.java;	(Generate extended query vocabulary based on search results)
 - Generate Snippet Queries
   Generate the queries file for snippet retrieval.
 	- Use ```questions/```            (The folder containing all the questions generated by the Pre-processing step)	
