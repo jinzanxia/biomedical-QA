@@ -4,7 +4,7 @@ The attachment files of Bioinformatics 2018 submission 1568.
 ### Table of Contents
 - <a href='#bioasq_dataset'>Bioasq Dataset</a>
 - <a href='#search_engine'>Search Engine</a>
-- <a href='#process_questions'>Process Queries</a>
+- <a href='#process questions'>Process Queries</a>
 - <a href='#evaluation'>Evaluation</a>
 - <a href='#citation'>Citation</a>
 
