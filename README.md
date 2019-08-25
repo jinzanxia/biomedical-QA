@@ -1,5 +1,5 @@
 # Health Assistant: Answering Your Questions Anytime from Biomedical Literature
-The attachment files of Bioinformatics 2018 submission 1568.
+This is a java implementation of the Health Assistant system described in the Bioinformatics paper "Health Assistant: Answering Your Questions Anytime from Biomedical Literature".
 
 ### Table of Contents
 - <a href='#bioasq_dataset'>Bioasq Dataset</a>
@@ -103,10 +103,10 @@ The questions are from Bioasq Task 5b(http://participants-area.bioasq.org/).
 ## Citation
 If you use our work, please cite the following paper:
 
-	@inproceedings{Bioinformatics_1568,
-	  title={Health Assistant: Answering Your Questions Anytime from Biomedical Literature},
-	  author={Anonymous Author(s)}
-	  booktitle={submitted to Bioinformatics},
-	  year={2018}
+	@article{JinHealth,
+ 	 title={Health Assistant: Answering Your Questions Anytime from Biomedical Literature},
+ 	 author={Jin, Zan Xia and Zhang, Bo Wen and Fang, Fan and Zhang, Le Le and Yin, Xu Cheng},
+ 	 journal={Bioinformatics},
+	 year={2019}
 	}
 
